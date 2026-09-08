@@ -1,0 +1,41 @@
+body {
+  background-color: #DCCD8B;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Averia Serif Libre", serif;
+  color: #475480;
+}
+
+p {
+  font-family: "Inter", sans-serif;
+  color: #475480;
+  line-height: 1.5; 
+}
+
+.content-container {
+  max-width: 800px;  
+  margin: 40px auto; 
+  padding: 0 20px;   
+}
+
+/* Moving your inline styles into clean CSS rules */
+.main-title {
+  font-size: 45px;
+}
+
+.section-title {
+  font-size: 36px; 
+  margin-top: 40px;
+}
+
+.large-text {
+  font-size: 26px;
+}
+
+.email-link {
+  color: #475480; 
+  text-decoration: underline;
+}
