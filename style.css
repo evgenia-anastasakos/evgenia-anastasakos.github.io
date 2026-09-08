@@ -32,9 +32,16 @@ p {
 
 .large-text {
   font-size: 26px;
+  max-width: 100%; 
 }
+
 
 .email-link {
   color: #475480; 
   text-decoration: underline;
+  transition: opacity 0.2s ease; 
+}
+
+.email-link:hover {
+  opacity: 0.7; 
 }
