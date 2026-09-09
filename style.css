@@ -52,6 +52,12 @@ a {
   cursor: url('my-cursor-hand.png'), pointer;
 }
 
+.email-link {
+  color: #5A3350;
+  text-decoration: underline;
+  transition: opacity 0.2s ease;
+}
+
 .footer-note {
   font-family: "Inter", sans-serif;
   font-size: 12px;
