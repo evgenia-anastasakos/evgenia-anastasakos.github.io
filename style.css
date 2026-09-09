@@ -38,12 +38,6 @@ p {
   max-width: 100%; 
 }
 
-.email-link {
-  color: #475480; 
-  text-decoration: underline;
-  transition: opacity 0.2s ease; 
-}
-
 a {
   color: #5A3350;
   text-decoration: underline;
