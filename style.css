@@ -57,3 +57,12 @@ a:hover {
 a {
   cursor: url('my-cursor-hand.png'), pointer;
 }
+
+.footer-note {
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  color: #475480;
+  text-align: center;
+  margin-top: 60px;
+  opacity: 0.6;
+}
